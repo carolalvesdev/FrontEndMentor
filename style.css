@@ -5,9 +5,16 @@
 
 
 body {
+    height: 100vh;
     background-color: hsl(212, 45%, 89%);
     display: flex;
     align-items: center;
+    justify-content: center
+   
+
+    
+    
+    
     
 }
 
@@ -17,6 +24,10 @@ body {
     margin: 0 auto;
     border-radius: 15px;
     text-align: center;
+   
+
+    
+   
 
 }
 
@@ -25,6 +36,8 @@ body {
     max-width: 100%; 
     border-radius: 10px;
     padding: 18px;
+    
+    
 }
 
 .qrcode img {
@@ -41,7 +54,7 @@ body {
     
 }
 
-.text h2 {
+.text h1 {
     color: hsl(218, 44%, 22%);
    
 }
