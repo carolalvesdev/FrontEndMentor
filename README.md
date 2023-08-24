@@ -14,3 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Linkedin - [Ana Carolina Alves](https://www.linkedin.com/in/ana-carolina-alves-b34a23281/)
 - Frontend Mentor - [@carolalvesdev](https://www.frontendmentor.io/profile/carolalvesdev)
 - Instagram - [carol_alves___](https://www.instagram.com/carol_alves___/)
+
+## Visit Website
+
+- https://carolalvesdev.github.io/FrontEndMentor/
